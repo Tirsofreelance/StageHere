@@ -1,5 +1,5 @@
 
-
+StageHere - NOTAS HANGSOUT 
 
 
 
@@ -10,13 +10,27 @@ NUEVO ENFOQUE DE LA APP
 ===========================
 
 
+En este documento incluyo los comentarios e ideas que hasn surgido en torno al nuevo planteamiento de la app. Hemos dejado la idea de seguir a Bandsintown para pasar a ser una app más centrada en la música en vivo.
+
+La idea es que el concierto o el festival de música se la idea y en lo que haya que pensar a la hora de dar un servicio y cubrir una necesidad del usuario. 
+
+Mantenemos la idea de poder saber qué conciertos habrá próximanente de nuestras bandas favoritas así como poder comprar los tickets a través de la app, aunque sea conectando con apps externas que ofrecen este servicio.
+
+Dejamos el tema de compartir las fotos y nos centramos en ofrecer utilidad y diversión al usuario durante el concierto.
+
+No obstante lo anterior, la app podrá ser utilizada antes y durante del concierto, auqneu será en la celebración de este y en el momento de dirigirnos a él cuando saquemos más provecho.
+
+Aquí se recogen algunas ideas que han surgido tanto entre nosotros como  tras consultar a amigos y conocidos.
+
+
+
 
 MARTES 13 Mayo
---------------
+------------------------
 
 
 PROPUESTAS:
------------
+---------------------
 
 - Medios de transporte al concierto
 
@@ -248,11 +262,11 @@ Trello: Productividad
 
 Dropbox: compartir archivos
 
-Repositoriao
+Repositorio
+
+Github (para quien quiera): https://github.com/Tirsofreelance/StageHere
 
 -------------------------------
-
-
 
 Usar Trello + dropbox + Drive
 
@@ -270,7 +284,7 @@ Unir a meta testers
 
 
 HANGS OUT Lunes 26 mayo 2014
-----------------------------
+--------------------------------------------
 
 - Nuevo nombre de la app: Stage Here
 
@@ -282,6 +296,8 @@ HANGS OUT Lunes 26 mayo 2014
 
 	Los colores, Negro y Blanco enfatizan el concepto de app de música en directo, recordando colores empleados no sólo en el r`n`r sino también en soul, rithm´n´blues , ska, ... color de los vinilos...
 
+Temas a tratar en el hangsout:
+----------------------------------------
 
 - Benchmarking: appl de IOS "appstage"
 
@@ -292,7 +308,6 @@ HANGS OUT Lunes 26 mayo 2014
 - Coordinación de diseño con Márketing y programación
 
 - Saber qué necesitan los progrmadores para comenzar
-
 
 
 
