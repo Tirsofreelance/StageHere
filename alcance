@@ -1,0 +1,370 @@
+
+
+===============================================================================
+
+								FIND YOUR BAND
+								Alcance de la app
+
+===============================================================================
+
+Tipo  de app: Ocio / Música.
+
+Público: ambos sexos a partir de 16 años.
+
+Esta app tendría 3 partes:
+
+PARTE I 
+=======
+
+En esta primera fase la app funcionaría como base de datos en la que buscar y encontrar grupos y solistas introduciendo su nombre en un pequeño formulario.
+
+Una vez localizada la información sobre el grupo hay una opción para ver todos sus álbumes publicados, cuando se clicka sobre el álbum se despliega una lista con los temas y al clickar sobre cada tema, la app nos lleva a una lista de vídeos de youtube para que escojamos cual reproducir.
+
+Esta fase ya está creada y en funcinamiento. He conectado con la Base de datos de Last.fm donde hay sobre 1.500 bandas pop/rock de todo el mundo así como solistas. De todas formas todas las sugerencias por parte de desarrolladores en esta parte serán bienvenidas.
+
+El Márketing debe ser un punto muy impotante, dada la posible repercusión de la app.
+
+El nombre y logo de la app también está pensado.
+
+El diseño visual y UX está en proceso.
+ 
+PARTE II
+========
+
+En esta 2ª parte, al desplegarse la información sobre la banda/solista aparecería una opción para ver próximos conciertos ( si los hay ), y a través de geolocalización ubicar en un mapa dónde serán estos conciertos. 
+
+El orden sería por fechas, comenzando por las más próximas. También se podría habilitar una opción para búsqueda por países.
+
+En caso de que haya conciertos programados, una opción que nos informe 
+dónde comprar los tickets ( tanto online como físicamente ) ( qizás aquí podríamos conectar con la parte developers de songkick?,) tal y como hice con last.fm
+
+Para esta Segunda parte de la app he propuesto la posibilidad de usar 
+las apis de Mástertickets, Songkick o Mate Ticket. Esto está recogido en un documento a parte.
+
+Otra opción que habría que incluir es la posibilidad de crear una lista de grupos o bandas que nos guesten y hacer un track para que por notificación a
+través de la app ( habría que ver si también por email como tienen otras apps como songkick ) los próximos conciertos.
+
+Al hilo de esto habría que incluir la posibilidad de hacer grupos dentro de
+nuestros contactos y que nos llegase la notificación de los conciertos que está interesado, bandas que siguen, confirmación de compra de tickets y confirmación de presencia en el  concierto ( esto es uno de los puntos fuertes de la app, la idea de compartir todo el proceso culminando con la toma de imágenes )
+
+
+PARTE III
+=========
+
+( Idea ya adelantada en la parte II )
+Esta parte es la más ambiciosa creo y quizás un poco menos definida, 
+por lo que si algún/a desarrolad@r está interesad@ por supuesto 
+escucharía sus propuestas.
+
+Tal y como adelanté el viernes se trataría de ir creando un path, o línea de tiempo en la que iría marcando y compartiendo con mis contactos aquellos conciertos en los que estoy interesad@ , aquellos para los que he adquirido tickets y aquellos en los que ya estoy presente, creando una opción en este último caso para tomar fotos en el concierto y compartirlos con los contactos y así dar un poquito de envidia … esto gusta mucho en las redes sociales ;-).
+
+Pero por otro lado esta opción serviría para ir buscando gente que se una con nosotros a ese concierto.
+
+Se trata pues de cerrar el círculo, desde que piensas en la banda o buscas información sobre ella hasta que estás en el concierto. Pero sin ir tan lejos también tiene la utilidad de buscar una banda, sus próximos conciertos y los
+precios de los tickets. O simmplemente, ( parte ya hecha ) buscar una banda 
+o solista y ver sus vídeos en youtube.
+
+La parte de Marketing también sería bienvenida.
+
+Esta idea de dividir en partes no tiene que tener un reflejo real con “barreras” en el diseño de la app, es una manera de exponer las 3 ideas u OBJETIVOS que persigue la app. De alguna manera estas partes lejos de ser estancas, interactúan entre sí, como se ha visto entre la parte II y la parte III.
+
+Quedo a la espera de vuestros comentarios/dudas/consultas … todo será más que bienvenido.
+
+Por favor id modificando este documento para añadir sugerencias.
+Un cordial saludo a tod@s y si has llegado hasta aquí…gracias por 
+formar parte de esta idea.
+
+Rock the shit!!
+
+Tir
+
+
+
+
+
+
+===========================
+
+NUEVO ENFOQUE DE LA APP
+
+===========================
+
+
+
+MARTES 13 Mayo
+--------------
+
+
+PROPUESTAS:
+-----------
+
+- Medios de transporte al concierto
+
+- Mapa del recinto con:
+
+	- Puestos de cerveza
+
+	- Puestos de comida
+
+	- Primeros auxilios
+
+	- wc
+
+	- tienda de campaña
+
+	- supermercados más cercanos ( festivales )
+
+
+- Posibilidad de encontrar a tus colegas
+
+- Letras de canciones y opción de enviarla a contactos.
+
+- Luz - destello 
+
+- info sobre el tour que está haciendo la banda
+
+- Historia, anécdotas de la banda
+
+- Posibilidad de acceder al backstage ( puntos...etc )
+
+- Compra de tickets
+
+- Compartir concierto con tus contactos
+
+- Votación del concierto
+
+- Votación del tema
+
+- Votación del sonido
+
+- Votación de la implicación del grupo en el concierto
+
+- Votación de la organización
+
+- Sugerencias del público tras el concierto/festival...
+
+- Reventas?
+
+- Landing page con programa de conciertos en la zona
+
+- Video Streaming de las bandas que van a tocar para calentar motores
+
+- Luces de colores
+
+- Sonidos de guitarra, batería, teclado...
+
+- Micrófono/sintetizador ... 
+
+- Alcoholímetro
+
+
+
+
+
+
+
+
+NUEVO BENCHMARKING
+-------------------
+
+
+- Concert online
+
+- Concert Vault
+
+- Concert light
+
+- Concert Camera ( black screen )
+
+- Lighter HD concert
+
+- Bic lighter
+
+- Olaii
+
+
+
+- iluminizción con el ritmo
+
+- votaciones: merchandasing, logo personalizado, ...
+
+- Usuarios gold/silver/premium...
+
+- Esto tampoco sería para el comienzo, no calaría en la gente.
+
+- App gratuita:
+
+	Monetización:
+
+		Empresas que puedan vender algo a través de la app:
+
+			- Venta de entradas
+
+			- Merchandasing del grupo
+
+			- Posibilidad de conocer a miembros de la banda
+
+			- Regalar un CD
+
+			- descargas en itunes..
+
+			... esto más adelante.
+
+
+
+USUARIO: el de la app
+
+BANDAS: perfil
+
+ORGANIZADORES de los conciertos
+
+Streams que tomamos como contenido, pero si una banda cree que debe ampliara su perfil con nustra app habrá que darle facilidades.
+
+Buscar la DIFERENCIA.
+
+Puntos:
+
+Qué ofrecer a las BANDAS
+
+qué ofrecer a los ORGANIZADORES
+
+Contactar con Bruno para saber sugerencias sobre qué ventajas les gustaría tener a través de una app.
+
+BENEFICIOS + VALORES PARA CADA USUARIOS 
+
+Donde está el RETORNO de la INVERSIÓN?
+
+Si no conseguimos unirnos a un MERCADO no podemos entrar en ese MERCADO
+
+3 FASES:
+
+usuario 
+
+bandas
+
+organizador
+
+Merchandarsing de cada banda 
+
+- pestañas para cada banda:
+
+	- merchandisign, letras, historia, videos
+
+	- filosofía de IOS
+
+	- simplificar y ser intuitivos 
+
+
+3 TIEMPOS:
+
+ANTES - DURANTE - DESPUÉS
+
+ACTIVITY:
+
+	 - en qué situación estás?
+
+	 3 botones: 3 activitys nos lleva a 3 ramas diferentes
+
+
+	 Antes: Buscar bandas, camiseta...
+
+	 Durante: Lyrics, wc , luces
+
+	 Después: Votaciones
+
+	 HACERLO SIMPLE
+
+	 En qué momento estás? antes/de camino/ en el concierto...La app te recomienda que veas estos puntos.
+
+	 Debe decidir el usuario.
+
+
+
+Sacar más partido a TRELLO: subir links, documentos sobre metodología de diseño.
+
+DEFINIR LAYOUTS
+
+DEFINIR CONTENIDO
+
+DEFINIR FLUIDIO
+
+"" DIAGRAMA
+
+"" CÓDIGO
+
+
+
+Primeros bocetos + determinar alcance
+
+
+- Bocetos
+
+
+- Alcance
+
+
+Naming "find your concert"
+
+findyourband findyour concert.
+
+
+
+video: landing page
+
+video promocional
+
+aportar ideas sobre la marcha.
+
+
+-------------------------------
+
+Googlegroup: discusiones 
+
+Trello: Productividad
+
+Dropbox: compartir archivos
+
+Repositoriao
+
+-------------------------------
+
+
+
+Usar Trello + dropbox + Drive
+
+Dropbox
+
+Michel sugiere un procedimiento para construir las aplicaciones.
+
+Creación de un marco para implementarlo.
+
+Medir tiempos
+
+Diagrama de Gant
+
+Unir a meta testers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
